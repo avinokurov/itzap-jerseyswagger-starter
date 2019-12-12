@@ -29,3 +29,5 @@ SwaggerContext.addSwaggerServlet(tomcat, context,
 * Build all projects
 	* `cd itzap-parent && mvn clean install`
 	* `cd ../itzap-common && mvn clean install`
+	
+Visit my [ITZap blog](http://itzap.com/swagger-ui-in-jersey-api/) to read more about this project.
